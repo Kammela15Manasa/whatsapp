@@ -1,0 +1,178 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+.container{
+    width: 1400px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header{
+
+    padding : 10px 0px;
+    box-shadow: 10px 0px 10px rgb(126, 125, 125);
+    background-color: rgb(18,140,126);
+}
+.header_logo{
+    width: 70px ;
+    height: auto;
+}
+.logo_support{
+    margin-left: 2px;
+    margin-top: 20px;
+    font-size: 22px;
+    color: white;
+}
+
+.header_nav{
+    width: 1000px;
+    margin-left: 110px;
+    margin-top: 24px;
+    
+    
+}
+
+.header_nav a{
+    color: white;
+    text-decoration: none;
+    margin:0px 25px ;
+}
+.Section_1 h1{
+    margin-top: 125px;
+    margin-left: 170px;
+    font-size: xx-large;
+}
+.Section_1 p{
+    margin-top: 40px;
+    margin-left: 170px;
+    font-size: 18px;
+}
+.Section_1 a{
+    padding-top: 20px;
+    padding-bottom:10px ;
+    margin-top: 40px;
+    margin-left: 170px;
+    font-size: 18px;
+
+}
+.MobileImg img{
+    margin-left: 80px;
+    margin-top: 60px ;
+    width: 300px;
+    height: auto;
+    }
+
+.Box_1 {
+    width: 40%;
+    margin: auto;
+    height: auto;
+}
+.Box_1 h2{
+    font-size: 35px;
+    margin-left: 120px;
+}
+
+.Box_1 p{
+    margin-left: 0px;
+}
+.Box_1 img {
+    width: 50%;
+    margin-left: 140px;
+}
+.Box_1 {
+    background-color: 	
+    rgb(216,230,234);
+    padding-top: 10px;
+    
+}
+.Box_2{
+    
+    width: 40%;
+    margin: auto;
+    background-color: rgb(231,240,228);
+    height: auto;
+}
+
+.Box_2 p{
+    margin-left: 100px;
+}
+.Box_2 .p_1 {
+    color: rgb(103, 103, 103);
+}
+.Box_2 .p_2 {
+    font-size: 30px;
+}
+
+
+.Box_2 video {
+    width: 50%;
+    margin-left: 160px;
+    margin-top: 20px;
+    
+}
+.Explore{
+    margin-top: 100px;
+}
+.Explore a {
+    margin-left: 600px;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px 5px;
+    border-radius: 50px;
+    border-style:solid;
+    border-color:aqua;
+    background-color: rgb(255, 255, 255);
+    color: rgb(18,140,126);
+    
+    }
+    .footer_nav_1 a {
+        text-decoration: none;
+        margin-left: 200px;
+        
+        
+    }
+    .footer_nav_2 a {
+        text-decoration: none;
+        margin-left: 200px;
+        
+        
+    }
+    .footer_nav_3 a {
+        text-decoration: none;
+        margin-left: 200px;
+        
+        
+    }
+    .footer_nav_4 a {
+        text-decoration: none;
+        
+        margin-left: 200px;
+        
+    }
+    footer{
+        padding: 30px 30px;
+        
+        margin-top: 100px;
+        background-color: rgb(39,52,67);
+    }
+    footer a{
+        color: aliceblue;
+    }
+    .pp{
+        margin-left: 1100px;
+
+    }
+    .p_Wa{
+        margin-left: 10px;
+        color: white;
+    }
+    .footer_terms{
+        width: 1460px;
+        color: white;
+        background-color: rgb(28,30,33);
+    }
